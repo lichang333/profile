@@ -69,6 +69,7 @@ td{
 
 
 
+
 .movie_title{
   font-family: 'Dosis', sans-serif;
   color: :#7C7C7C;
@@ -165,7 +166,9 @@ td{
   margin: 30px auto;
 }
 
-
+.social_font{
+  font-size: 35px;
+}
 
 @media (max-width: 720px) {
   /* For a screen < 720px, this CSS will be read */
